@@ -16,8 +16,7 @@ Se quiser entrar em contato, me manda um e-mail ou fale comigo pelo LinkedIn!
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="docker" height="30" width="40" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-">
+  <img align="center" alt="docker" height="30" width="40" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <div>
 <br>
 </div style="display: inline_block">
