@@ -19,7 +19,7 @@ Se quiser entrar em contato, me manda um e-mail ou fale comigo pelo LinkedIn!
   <img align="center" alt="docker" height="30" width="40" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <div>
 <br>
-</div style="display: inline_block">
+</div align="center" style="display: inline_block">
    <a href = "mailto:doug1306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-dos-santos-oliveira-762a7411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
