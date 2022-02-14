@@ -23,3 +23,10 @@ Se quiser entrar em contato, me manda um e-mail ou fale comigo pelo LinkedIn!
    <a href = "mailto:doug1306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-dos-santos-oliveira-762a7411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
+  <p align="center">
+ Quantidade de visitas no meu perfil desde: 14/02/2022 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/tilo1306/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre 😄
+</p>
