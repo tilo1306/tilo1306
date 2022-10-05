@@ -22,7 +22,8 @@ Se quiser entrar em contato, me manda um e-mail ou fale comigo pelo LinkedIn!
 
 <img align="center" alt="sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 
-<img align="center" alt="express" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img align="center" alt="tail" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
 
 <img align="center" alt="nodejs" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" alt="mysql" height="40" width="40"
@@ -45,4 +46,3 @@ Se quiser entrar em contato, me manda um e-mail ou fale comigo pelo LinkedIn!
 <p align="center">
 Obrigado e volte sempre 😄
 </p>
-
